@@ -1,4 +1,4 @@
-# Sendr. ⚡️
+# Finance Tracker ⚡️
 
 Sendr, modern ve kullanıcı dostu arayüze sahip, finansal transferlerinizi ve hesap hareketlerinizi anlık olarak takip edebileceğiniz şık bir iOS finans uygulamasıdır. SwiftUI mimarisi kullanılarak, temiz kod prensiplerine uygun olarak geliştirilmiştir.
 
@@ -27,10 +27,4 @@ Sendr, modern ve kullanıcı dostu arayüze sahip, finansal transferlerinizi ve 
 - **Mimari Desen:** MVVM (Model-View-ViewModel)
 - **Veri Yapıları:** Dinamik Liste ve Grafik Gösterimleri
 
-## 🚀 Kurulum
 
-Projeyi yerel bilgisayarınızda çalıştırmak için:
-
-1. Bu depoyu klonlayın:
-```bash
-   git clone [https://github.com/hediyesert/FinanceTracker.git](https://github.com/hediyesert/FinanceTracker.git)
